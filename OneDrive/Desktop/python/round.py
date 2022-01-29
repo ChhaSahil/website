@@ -1,0 +1,1 @@
+print(int(round(8.6)))
